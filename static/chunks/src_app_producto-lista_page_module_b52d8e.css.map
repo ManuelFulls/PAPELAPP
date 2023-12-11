@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["/turbopack/[project]/src/app/producto-lista/page.module.css"],"sourcesContent":[".header{\r\n\r\nbackground-color: black;\r\nheight: 4em;\r\n}\r\n.tituloHead{\r\n    padding-top: 1em;\r\n    padding-left: .5em;\r\n    color: white;\r\n}\r\n\r\n.titulo{\r\n    margin-top: 1em;\r\n    text-align: center;\r\n}\r\n.searchbar{\r\n    \r\n    margin-top: 1em;\r\n   display: grid;\r\n   place-items: center;\r\n}\r\n.buscar{\r\n    height: 3em;\r\n    border-radius: 10px;\r\n    width: 90%;\r\n}"],"names":[],"mappings":"AAAA,CAAC,sBAAM,CAAA,CAAC;EAER,gBAAgB,EAAE,KAAK;EACvB,MAAM,EAAE,CAAC,EAAE;AACX,CAAC;AACD,CAAC,0BAAU,CAAA,CAAC;EACR,WAAW,EAAE,CAAC,EAAE;EAChB,YAAY,EAAE,EAAE,EAAE;EAClB,KAAK,EAAE,KAAK;AAChB,CAAC;AAED,CAAC,sBAAM,CAAA,CAAC;EACJ,UAAU,EAAE,CAAC,EAAE;EACf,UAAU,EAAE,MAAM;AACtB,CAAC;AACD,CAAC,yBAAS,CAAA,CAAC;EAEP,UAAU,EAAE,CAAC,EAAE;EAChB,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;AACtB,CAAC;AACD,CAAC,sBAAM,CAAA,CAAC;EACJ,MAAM,EAAE,CAAC,EAAE;EACX,aAAa,EAAE,EAAE,EAAE;EACnB,KAAK,EAAE,EAAE,CAAC;AACd,CAAC"}},
+    {"offset": {"line": 23, "column": 1}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

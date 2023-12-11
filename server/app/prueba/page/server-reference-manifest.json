@@ -1,0 +1,13 @@
+{
+  "node": {
+    "5ef953fee490c515a7a1f3e165fa0e6b26c487ae": {
+      "workers": {
+        "app/prueba/page": "[node]/.next/server/app/prueba/page/actions.js/(ACTIONS_MODULE0)/[project]/src/app/prueba/page.tsx [rsc] (ecmascript) (ecmascript)"
+      },
+      "layer": {
+        "app/prueba/page": "rsc"
+      }
+    }
+  },
+  "edge": {}
+}

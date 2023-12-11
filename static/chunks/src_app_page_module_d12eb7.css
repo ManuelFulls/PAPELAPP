@@ -1,0 +1,52 @@
+/* [project]/src/app/page.module.css [app-client] (css) */
+.main__page__f5f955c {
+  width: 100%;
+  height: 100vh;
+}
+.categories__page__f5f955c {
+  display: grid;
+  gap: .5em;
+  padding: .75em;
+  grid-template-columns: 1fr 1fr;
+}
+.category__page__f5f955c {
+  display: flex;
+  align-items: center;
+  gap: .5em;
+  padding: .5em;
+  border-radius: .25em;
+  background-color: var(--secondary);
+  aspect-ratio: 1/ 1;
+  border-radius: .5em;
+}
+.promoLabel__page__f5f955c {
+  color: var(--text);
+  background-color: var(--accent);
+  padding: 1.5em;
+}
+.promoText__page__f5f955c {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+.filterBar__page__f5f955c {
+  padding: .75em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.filterBar__page__f5f955c select {
+  padding: .5em;
+  border-radius: .25em;
+  border: none;
+  background-color: var(--secondary);
+  font-weight: bold;
+}
+.products__page__f5f955c {
+  display: grid;
+  gap: .5em;
+  padding: .75em;
+  grid-template-columns: 1fr 1fr;
+}
+
+
+/*# sourceMappingURL=src_app_page_module_d12eb7.css.map*/

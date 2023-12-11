@@ -1,0 +1,27 @@
+/* [project]/src/app/producto-lista/page.module.css [app-client] (css) */
+.header__page__c2ffba42 {
+  background-color: black;
+  height: 4em;
+}
+.tituloHead__page__c2ffba42 {
+  padding-top: 1em;
+  padding-left: .5em;
+  color: white;
+}
+.titulo__page__c2ffba42 {
+  margin-top: 1em;
+  text-align: center;
+}
+.searchbar__page__c2ffba42 {
+  margin-top: 1em;
+  display: grid;
+  place-items: center;
+}
+.buscar__page__c2ffba42 {
+  height: 3em;
+  border-radius: 10px;
+  width: 90%;
+}
+
+
+/*# sourceMappingURL=src_app_producto-lista_page_module_4e2e20.css.map*/

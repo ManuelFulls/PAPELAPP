@@ -1,0 +1,43 @@
+/* [project]/src/components/ProductTrolley/ProductTrolley.module.css [app-client] (css) */
+.productTrolley__ProductTrolley__3747d2c4 {
+  display: flex;
+  margin-top: 5%;
+  border-radius: .25em;
+  background-color: var(--secondary);
+  width: 90%;
+}
+.caja__ProductTrolley__3747d2c4 {
+  display: grid;
+  place-content: center;
+  width: 25px;
+  height: 25px;
+  background-color: var(--secondary);
+  border-color: black;
+  border-style: double;
+}
+.titulo__ProductTrolley__3747d2c4, 
+p, 
+.caja__ProductTrolley__3747d2c4 {
+  margin: .5em;
+}
+.cajaimagen__ProductTrolley__3747d2c4 {
+  display: grid;
+  place-items: center;
+}
+.imagen__ProductTrolley__3747d2c4 {
+  width: 98px;
+  height: 100px;
+}
+.bton__ProductTrolley__3747d2c4 {
+  display: grid;
+  right: 0;
+  border-radius: 50%;
+}
+.bton__ProductTrolley__3747d2c4 button {
+  border-radius: 50%;
+  margin: .2em;
+  padding: .2em;
+}
+
+
+/*# sourceMappingURL=src_components_ProductTrolley_ProductTrolley_module_ce3227.css.map*/

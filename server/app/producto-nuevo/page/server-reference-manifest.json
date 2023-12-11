@@ -1,0 +1,13 @@
+{
+  "node": {
+    "30c13779e76032f18ec8515c11fecdcadbe55dbe": {
+      "workers": {
+        "app/producto-nuevo/page": "[node]/.next/server/app/producto-nuevo/page/actions.js/(ACTIONS_MODULE0)/[project]/src/app/producto-nuevo/page.tsx [rsc] (ecmascript) (ecmascript)"
+      },
+      "layer": {
+        "app/producto-nuevo/page": "rsc"
+      }
+    }
+  },
+  "edge": {}
+}

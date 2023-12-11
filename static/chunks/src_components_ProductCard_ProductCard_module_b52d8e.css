@@ -1,0 +1,49 @@
+/* [project]/src/components/ProductCard/ProductCard.module.css [app-client] (css) */
+.productCard__ProductCard__10ee5ccf {
+  height: 100%;
+  display: grid;
+  place-items: center;
+  gap: .5em;
+  padding: .5em;
+  background-color: var(--secondary);
+  aspect-ratio: 1/ 1;
+  border-radius: .5em;
+  grid-template-rows: 1fr .20fr;
+  overflow: hidden;
+  position: relative;
+}
+.productImage__ProductCard__10ee5ccf {
+  object-fit: contain;
+  object-position: center;
+}
+.productName__ProductCard__10ee5ccf {
+  text-align: start;
+  font-size: .9em;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-wrap: nowrap;
+  white-space: nowrap;
+  background-color: var(--secondary);
+}
+.productShop__ProductCard__10ee5ccf {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.add__ProductCard__10ee5ccf {
+  padding: .25em;
+  background-color: var(--text);
+  color: var(--base);
+}
+.productPrice__ProductCard__10ee5ccf {
+  font-size: .8em;
+  font-weight: bold;
+  background-color: var(--text);
+  color: var(--base);
+  padding-inline: .5em;
+  border-radius: 1em;
+  position: absolute;
+  top: .5em;
+  right: .5em;
+}
+/*# sourceMappingURL=src_components_ProductCard_ProductCard_module_b52d8e.css.map*/

@@ -1,0 +1,13 @@
+{
+  "node": {
+    "3156b5d0c4b8ffa6cf4663f659dd414a1d7eca12": {
+      "workers": {
+        "app/editar-producto/[id]/page": "[node]/.next/server/app/editar-producto/[id]/page/actions.js/(ACTIONS_MODULE0)/[project]/src/app/editar-producto/[id]/page.tsx [rsc] (ecmascript) (ecmascript)"
+      },
+      "layer": {
+        "app/editar-producto/[id]/page": "rsc"
+      }
+    }
+  },
+  "edge": {}
+}

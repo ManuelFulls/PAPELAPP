@@ -1,0 +1,30 @@
+/* [project]/src/app/iniciar-sesion/page.module.css [app-client] (css) */
+.titulo__page__f4b32691 {
+  color: rgb(228, 228, 228);
+  text-align: center;
+  padding-top: 50px;
+}
+.contenedor__page__f4b32691 {
+  background-color: rgb(255, 255, 255);
+  display: grid;
+  padding: 2em;
+  gap: 1em;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  right: 0;
+}
+.contenedor__page__f4b32691 input {
+  padding: 1em;
+}
+.tit1__page__f4b32691 {
+  text-align: center;
+  padding-top: 1em;
+  font-weight: 40px;
+}
+
+
+/*# sourceMappingURL=src_app_iniciar-sesion_page_module_6b14c8.css.map*/

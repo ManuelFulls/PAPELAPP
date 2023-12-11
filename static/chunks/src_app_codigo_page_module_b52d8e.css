@@ -1,0 +1,46 @@
+/* [project]/src/app/codigo/page.module.css [app-client] (css) */
+.header__page__88f1cec3 {
+  display: grid;
+  gap: .5em;
+  background-color: var(--text);
+  color: var(--base);
+  padding: .75em;
+}
+.titulo__page__88f1cec3 {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.aviso__page__88f1cec3 {
+  display: grid;
+  margin-top: 1em;
+  border-radius: 20px;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  font-size: 20px;
+  font-weight: bold;
+  place-items: center;
+  background-color: #96d1c7;
+}
+.aviso2__page__88f1cec3 {
+  padding-top: 2em;
+  display: grid;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+.orden__page__88f1cec3 {
+  display: grid;
+  place-items: center;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding-bottom: .5em;
+}
+.bto__page__88f1cec3 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 30px;
+  width: 90%;
+  font-weight: bold;
+}
+/*# sourceMappingURL=src_app_codigo_page_module_b52d8e.css.map*/

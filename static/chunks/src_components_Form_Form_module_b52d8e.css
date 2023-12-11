@@ -1,0 +1,18 @@
+/* [project]/src/components/Form/Form.module.css [app-client] (css) */
+.cajaInfo__Form__86353fca, 
+.cajaInput__Form__86353fca {
+  display: flex;
+  justify-content: space-around;
+}
+.cajaInput__Form__86353fca input {
+  width: 40%;
+}
+.Info1__Form__86353fca, 
+.Info2__Form__86353fca {
+  display: block;
+  padding-bottom: .5em;
+}
+.contenedor__Form__86353fca {
+  padding-top: 1em;
+}
+/*# sourceMappingURL=src_components_Form_Form_module_b52d8e.css.map*/

@@ -1,0 +1,13 @@
+{
+  "node": {
+    "3a09138efed22e558f89436d9691100720005738": {
+      "workers": {
+        "app/registrarse/page": "[node]/.next/server/app/registrarse/page/actions.js/(ACTIONS_MODULE0)/[project]/src/app/registrarse/page.tsx [rsc] (ecmascript) (ecmascript)"
+      },
+      "layer": {
+        "app/registrarse/page": "rsc"
+      }
+    }
+  },
+  "edge": {}
+}

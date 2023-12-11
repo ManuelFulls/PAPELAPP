@@ -1,0 +1,35 @@
+/* [project]/src/app/carrito/page.module.css [app-client] (css) */
+.seccion__page__577acbec {
+  display: grid;
+  place-items: center;
+}
+.orden__page__577acbec {
+  display: grid;
+  place-items: center;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding-bottom: .5em;
+}
+.bto__page__577acbec {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 30px;
+  width: 90%;
+  font-weight: bold;
+}
+.header__page__577acbec {
+  display: grid;
+  gap: .5em;
+  background-color: var(--text);
+  color: var(--base);
+  padding: .75em;
+}
+.titulo__page__577acbec {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+}
+
+
+/*# sourceMappingURL=src_app_carrito_page_module_59ab12.css.map*/

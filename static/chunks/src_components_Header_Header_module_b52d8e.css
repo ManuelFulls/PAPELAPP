@@ -1,0 +1,37 @@
+/* [project]/src/components/Header/Header.module.css [app-client] (css) */
+.header__Header__4185a256 {
+  display: grid;
+  gap: .5em;
+  background-color: var(--text);
+  color: var(--base);
+  padding: .75em;
+  width: 100%;
+}
+.titlebar__Header__4185a256 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--text);
+  color: var(--base);
+  width: 100%;
+}
+.titlebar__Header__4185a256 h1 {
+  font-size: 1.5em;
+  margin: 0;
+  color: white;
+}
+.searchbar__Header__4185a256 {
+  display: flex;
+  align-items: center;
+  background-color: var(--text);
+  width: 100%;
+}
+.searchbar__Header__4185a256 input {
+  background-color: var(--base);
+  width: 100%;
+  padding: .5em 1em;
+  border: none;
+  border-radius: .25em;
+  font-size: 1.2em;
+}
+/*# sourceMappingURL=src_components_Header_Header_module_b52d8e.css.map*/

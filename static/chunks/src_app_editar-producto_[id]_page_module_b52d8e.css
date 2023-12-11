@@ -1,0 +1,61 @@
+/* [project]/src/app/editar-producto/[id]/page.module.css [app-client] (css) */
+.titulo__page__fea1ffb9 {
+  text-align: center;
+  padding-top: 2em;
+  padding-bottom: .5em;
+}
+span {
+  font-weight: bold;
+}
+img {
+  width: 150px;
+}
+.contenedor__page__fea1ffb9 {
+  display: grid;
+  margin: 1em;
+}
+.textIm__page__fea1ffb9, 
+img {
+  padding: 1em;
+}
+.orden__page__fea1ffb9 {
+  display: grid;
+  place-items: center;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding-bottom: .5em;
+}
+.bto__page__fea1ffb9 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 30px;
+  width: 90%;
+  font-weight: bold;
+}
+.color__page__fea1ffb9 {
+  margin-left: 4em;
+  padding-top: 1em;
+  padding-bottom: .5em;
+}
+.colorInput__page__fea1ffb9 {
+  width: 40%;
+  margin-left: 1.5em;
+}
+.cajaInfo__page__fea1ffb9, 
+.cajaInput__page__fea1ffb9 {
+  display: flex;
+  justify-content: space-between;
+}
+.cajaInput__page__fea1ffb9 input {
+  width: 40%;
+}
+.Info1__page__fea1ffb9, 
+.Info2__page__fea1ffb9 {
+  display: block;
+  padding-bottom: .5em;
+}
+.contenedor2__page__fea1ffb9 {
+  padding-top: 1em;
+}
+/*# sourceMappingURL=src_app_editar-producto_[id]_page_module_b52d8e.css.map*/

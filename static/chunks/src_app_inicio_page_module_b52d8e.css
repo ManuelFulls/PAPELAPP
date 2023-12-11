@@ -1,0 +1,42 @@
+/* [project]/src/app/inicio/page.module.css [app-client] (css) */
+.tit2__page__7e5b4a87 {
+  color: black;
+  text-align: center;
+  padding-top: 13em;
+  font-size: 36px;
+  margin-bottom: .5em;
+}
+main {
+  position: absolute;
+}
+.titulo__page__7e5b4a87 {
+  margin-top: .5em;
+  text-align: center;
+}
+span {
+  margin: 2em;
+  font-size: 10px;
+  font-weight: bold;
+}
+.Poli1__page__7e5b4a87 {
+  margin-left: 10%;
+  margin-right: 20%;
+}
+.Poli2__page__7e5b4a87, 
+.Poli1__page__7e5b4a87 {
+  padding-bottom: 40px;
+}
+.boton1__page__7e5b4a87, 
+.boton2__page__7e5b4a87 {
+  margin-top: 1em;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  height: 3em;
+  font-weight: bold;
+  font-size: 20px;
+}
+.boton2__page__7e5b4a87 {
+  margin-bottom: 4em;
+}
+/*# sourceMappingURL=src_app_inicio_page_module_b52d8e.css.map*/
